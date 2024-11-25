@@ -547,6 +547,9 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
+.idea
+.idea/
+
 # Tabs Studio
 *.tss
 
